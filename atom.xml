@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Bevy Engine</title>
+    <link rel="self" type="application/atom+xml" href="https://bevyengine.org/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://bevyengine.org"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-17T00:00:00+00:00</updated>
+    <id>https://bevyengine.org/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Bevy 0.13</title>
+        <published>2024-02-17T00:00:00+00:00</published>
+        <updated>2024-02-17T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://bevyengine.org/news/bevy-0-13/"/>
+        <id>https://bevyengine.org/news/bevy-0-13/</id>
+        
+        <summary type="html">&lt;p&gt;Thanks to &lt;strong&gt;198&lt;&#x2F;strong&gt; contributors, &lt;strong&gt;672&lt;&#x2F;strong&gt; pull requests, community reviewers, and our &lt;a href=&quot;&#x2F;community&#x2F;donate&quot;&gt;&lt;strong&gt;generous sponsors&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;, we&#x27;re happy to announce the &lt;strong&gt;Bevy 0.13&lt;&#x2F;strong&gt; release on &lt;a href=&quot;https:&#x2F;&#x2F;crates.io&#x2F;crates&#x2F;bevy&quot;&gt;crates.io&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+&lt;p&gt;For those who don&#x27;t know, Bevy is a refreshingly simple data-driven game engine built in Rust. You can check out our &lt;a href=&quot;&#x2F;learn&#x2F;quick-start&quot;&gt;Quick Start Guide&lt;&#x2F;a&gt; to try it today. It&#x27;s free and open source forever! You can grab the full &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bevyengine&#x2F;bevy&quot;&gt;source code&lt;&#x2F;a&gt; on GitHub. Check out &lt;a href=&quot;https:&#x2F;&#x2F;bevyengine.org&#x2F;assets&quot;&gt;Bevy Assets&lt;&#x2F;a&gt; for a collection of community-developed plugins, games, and learning resources.
+And to see what the engine has to offer hands-on, check out the entries in the &lt;a href=&quot;https:&#x2F;&#x2F;itch.io&#x2F;jam&#x2F;bevy-jam-4&#x2F;entries&quot;&gt;latest Bevy Jam&lt;&#x2F;a&gt;, including the winner &lt;a href=&quot;https:&#x2F;&#x2F;andrewb330.itch.io&#x2F;thats-a-lot-of-beeeeees&quot;&gt;That&#x27;s a LOT of beeeeees&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;To update an existing Bevy App or Plugin to &lt;strong&gt;Bevy 0.13&lt;&#x2F;strong&gt;, check out our &lt;a href=&quot;&#x2F;learn&#x2F;migration-guides&#x2F;0-12-to-0-13&#x2F;&quot;&gt;0.12 to 0.13 Migration Guide&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Since our last release a few months ago we&#x27;ve added a &lt;em&gt;ton&lt;&#x2F;em&gt; of new features, bug fixes, and quality of life tweaks, but here are some of the highlights:&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>SME Announcements</title>
+        <published>2023-12-12T00:00:00+00:00</published>
+        <updated>2023-12-12T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://bevyengine.org/news/sme-announcements/"/>
+        <id>https://bevyengine.org/news/sme-announcements/</id>
+        
+        <summary type="html">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.twitter.com&#x2F;cart_cart&quot;&gt;@cart&lt;&#x2F;a&gt; here (Bevy&#x27;s creator and Project Lead) with a quick update! We have some new SMEs (Subject Matter Experts) to announce.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Bevy 0.12</title>
+        <published>2023-11-04T00:00:00+00:00</published>
+        <updated>2023-11-04T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://bevyengine.org/news/bevy-0-12/"/>
+        <id>https://bevyengine.org/news/bevy-0-12/</id>
+        
+        <summary type="html">&lt;p&gt;Thanks to &lt;strong&gt;185&lt;&#x2F;strong&gt; contributors, &lt;strong&gt;567&lt;&#x2F;strong&gt; pull requests, community reviewers, and our &lt;a href=&quot;&#x2F;community&#x2F;donate&quot;&gt;&lt;strong&gt;generous sponsors&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;, we&#x27;re happy to announce the &lt;strong&gt;Bevy 0.12&lt;&#x2F;strong&gt; release on &lt;a href=&quot;https:&#x2F;&#x2F;crates.io&#x2F;crates&#x2F;bevy&quot;&gt;crates.io&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+&lt;p&gt;For those who don&#x27;t know, Bevy is a refreshingly simple data-driven game engine built in Rust. You can check out our &lt;a href=&quot;&#x2F;learn&#x2F;quick-start&#x2F;introduction&quot;&gt;Quick Start Guide&lt;&#x2F;a&gt; to try it today. It&#x27;s free and open source forever! You can grab the full &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bevyengine&#x2F;bevy&quot;&gt;source code&lt;&#x2F;a&gt; on GitHub. Check out &lt;a href=&quot;https:&#x2F;&#x2F;bevyengine.org&#x2F;assets&quot;&gt;Bevy Assets&lt;&#x2F;a&gt; for a collection of community-developed plugins, games, and learning resources.&lt;&#x2F;p&gt;
+&lt;p&gt;To update an existing Bevy App or Plugin to &lt;strong&gt;Bevy 0.12&lt;&#x2F;strong&gt;, check out our &lt;a href=&quot;&#x2F;learn&#x2F;migration-guides&#x2F;0.11-0.12&#x2F;&quot;&gt;0.11 to 0.12 Migration Guide&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Since our last release a few months ago we&#x27;ve added a &lt;em&gt;ton&lt;&#x2F;em&gt; of new features, bug fixes, and quality of life tweaks, but here are some of the highlights:&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Community Reflection on Bevy&#x27;s Third Year</title>
+        <published>2023-09-21T00:00:00+00:00</published>
+        <updated>2023-09-21T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://bevyengine.org/news/community-reflection-on-bevys-third-year/"/>
+        <id>https://bevyengine.org/news/community-reflection-on-bevys-third-year/</id>
+        
+        <summary type="html">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.twitter.com&#x2F;cart_cart&quot;&gt;@cart&lt;&#x2F;a&gt; here (Bevy&#x27;s creator and Project Lead) with another update! A little over a month ago was Bevy&#x27;s Third Birthday! As is tradition, I took that as a chance to reflect on the past year and outline my hopes and dreams for the future. You can read that in my &lt;a href=&quot;https:&#x2F;&#x2F;bevyengine.org&#x2F;news&#x2F;bevys-third-birthday&#x2F;&quot;&gt;Bevy&#x27;s Third Birthday&lt;&#x2F;a&gt; post.&lt;&#x2F;p&gt;
+&lt;p&gt;This year for the first time I also encouraged the Bevy community to write their own reflections on Bevy&#x27;s third year in a similar style, and to &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bevyengine&#x2F;bevy-website&#x2F;issues&#x2F;728&quot;&gt;post them here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Bevy&#x27;s Third Birthday</title>
+        <published>2023-08-10T00:00:00+00:00</published>
+        <updated>2023-08-10T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://bevyengine.org/news/bevys-third-birthday/"/>
+        <id>https://bevyengine.org/news/bevys-third-birthday/</id>
+        
+        <summary type="html">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.twitter.com&#x2F;cart_cart&quot;&gt;@cart&lt;&#x2F;a&gt; here (Bevy&#x27;s creator and Project Lead) with an exciting announcement ... it has now been three years since the initial Bevy release!&lt;&#x2F;p&gt;
+&lt;p&gt;As is tradition, I will take this as a chance to reflect on the past year and outline our hopes and dreams for the future. If you&#x27;re curious, check out Bevy&#x27;s &lt;a href=&quot;&#x2F;news&#x2F;bevys-first-birthday&quot;&gt;First Birthday&lt;&#x2F;a&gt; and &lt;a href=&quot;&#x2F;news&#x2F;bevys-second-birthday&quot;&gt;Second Birthday&lt;&#x2F;a&gt; posts.&lt;&#x2F;p&gt;
+&lt;p&gt;This year, I am also highly encouraging everyone to write their own &amp;quot;Bevy Birthday&amp;quot; reflection posts. Just publish your post somewhere (and to social media if you want) and &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bevyengine&#x2F;bevy-website&#x2F;issues&#x2F;728&quot;&gt;link to it here&lt;&#x2F;a&gt;. One month from now, we will do a followup &amp;quot;Reflecting on Bevy&#x27;s Third Year&amp;quot; rollup post that aggregates these in one place. This is our chance as a community to celebrate our wins, identify improvement areas, and calibrate our path for the next year.&lt;&#x2F;p&gt;
+&lt;p&gt;For those who don&#x27;t know, Bevy is a refreshingly simple data-driven game engine built in Rust. Bevy is also free and open source forever! You can grab the full &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bevyengine&#x2F;bevy&quot;&gt;source code&lt;&#x2F;a&gt; on GitHub. We have a &lt;a href=&quot;&#x2F;learn&#x2F;quick-start&#x2F;introduction&quot;&gt;Quick Start Guide&lt;&#x2F;a&gt;. You can also check out &lt;a href=&quot;&#x2F;assets&#x2F;&quot;&gt;Bevy Assets&lt;&#x2F;a&gt; for a library of community-developed plugins, crates, games, and learning resources.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Bevy 0.11</title>
+        <published>2023-07-09T00:00:00+00:00</published>
+        <updated>2023-07-09T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://bevyengine.org/news/bevy-0-11/"/>
+        <id>https://bevyengine.org/news/bevy-0-11/</id>
+        
+        <summary type="html">&lt;p&gt;Thanks to &lt;strong&gt;166&lt;&#x2F;strong&gt; contributors, &lt;strong&gt;522&lt;&#x2F;strong&gt; pull requests, community reviewers, and our &lt;a href=&quot;&#x2F;community&#x2F;donate&quot;&gt;&lt;strong&gt;generous sponsors&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;, we&#x27;re happy to announce the &lt;strong&gt;Bevy 0.11&lt;&#x2F;strong&gt; release on &lt;a href=&quot;https:&#x2F;&#x2F;crates.io&#x2F;crates&#x2F;bevy&quot;&gt;crates.io&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+&lt;p&gt;For those who don&#x27;t know, Bevy is a refreshingly simple data-driven game engine built in Rust. You can check out our &lt;a href=&quot;&#x2F;learn&#x2F;quick-start&#x2F;introduction&#x2F;&quot;&gt;Quick Start Guide&lt;&#x2F;a&gt; to try it today. It&#x27;s free and open source forever! You can grab the full &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bevyengine&#x2F;bevy&quot;&gt;source code&lt;&#x2F;a&gt; on GitHub. Check out &lt;a href=&quot;https:&#x2F;&#x2F;bevyengine.org&#x2F;assets&quot;&gt;Bevy Assets&lt;&#x2F;a&gt; for a collection of community-developed plugins, games, and learning resources.&lt;&#x2F;p&gt;
+&lt;p&gt;To update an existing Bevy App or Plugin to &lt;strong&gt;Bevy 0.11&lt;&#x2F;strong&gt;, check out our &lt;a href=&quot;&#x2F;learn&#x2F;migration-guides&#x2F;0.10-0.11&#x2F;&quot;&gt;0.10 to 0.11 Migration Guide&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Since our last release a few months ago we&#x27;ve added a &lt;em&gt;ton&lt;&#x2F;em&gt; of new features, bug fixes, and quality of life tweaks, but here are some of the highlights:&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Bevy + WebGPU</title>
+        <published>2023-05-17T00:00:00+00:00</published>
+        <updated>2023-05-17T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://bevyengine.org/news/bevy-webgpu/"/>
+        <id>https://bevyengine.org/news/bevy-webgpu/</id>
+        
+        <summary type="html">&lt;p&gt;I&#x27;m excited to announce that Bevy&#x27;s main branch now supports WebGPU rendering on the web! This means you can &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bevyengine&#x2F;bevy&quot;&gt;play with it now by checking out our repo&lt;&#x2F;a&gt; provided you have a &lt;a href=&quot;https:&#x2F;&#x2F;caniuse.com&#x2F;webgpu&quot;&gt;supported web browser&lt;&#x2F;a&gt; (WebGPU is still in the process of rolling out). You can also explore our &lt;a href=&quot;&#x2F;examples-webgpu&quot;&gt;live WebGPU examples&lt;&#x2F;a&gt;. The upcoming &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bevyengine&#x2F;bevy&#x2F;milestone&#x2F;11&quot;&gt;Bevy 0.11 release&lt;&#x2F;a&gt; will have WebGPU support built in, which is slated for release in about a month!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;what-is-webgpu&quot;&gt;What is WebGPU?
+&lt;a class=&quot;anchor-link&quot; href=&quot;#what-is-webgpu&quot;&gt;#&lt;&#x2F;a&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;WebGPU is an &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;gpuweb&#x2F;gpuweb&quot;&gt;exciting new web standard&lt;&#x2F;a&gt; for doing modern GPU graphics and compute. It takes inspiration from Vulkan, Direct3D 12, and Metal. In fact, it is generally implemented on top of these APIs under the hood. WebGPU gives us access to more GPU features than WebGL2 (such as compute shaders) and also has the potential to be much faster. It means that more of Bevy&#x27;s native renderer features are now also available on the web. It also uses the new &lt;a href=&quot;https:&#x2F;&#x2F;www.w3.org&#x2F;TR&#x2F;WGSL&quot;&gt;WGSL shader language&lt;&#x2F;a&gt;. We&#x27;re very happy with how WGSL has evolved over time and Bevy uses it internally for our shaders. We also added usability features like imports! But with Bevy you still have the option to use GLSL if you prefer.&lt;&#x2F;p&gt;
+&lt;p&gt;WebGPU has started making waves because &lt;a href=&quot;https:&#x2F;&#x2F;developer.chrome.com&#x2F;blog&#x2F;webgpu-release&#x2F;&quot;&gt;Chrome just shipped WebGPU support in Chrome 113&lt;&#x2F;a&gt;, which means people with normal Chrome releases can start testing it. Firefox and Safari also have implementations in the works!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;what-is-bevy&quot;&gt;What is Bevy?
+&lt;a class=&quot;anchor-link&quot; href=&quot;#what-is-bevy&quot;&gt;#&lt;&#x2F;a&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;bevyengine.org&#x2F;news&#x2F;bevy-webgpu&#x2F;ruins.png&quot; alt=&quot;ruins&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;For those who don&#x27;t know, Bevy is a refreshingly simple cross-platform data-driven game engine built in Rust. It has a modern and extensible 2D and 3D renderer, a best-in-class ECS (entity component system) that is delightful to use, &lt;a href=&quot;&#x2F;&quot;&gt;plenty of features&lt;&#x2F;a&gt;, and a vibrant and open &lt;a href=&quot;&#x2F;community&quot;&gt;developer community&lt;&#x2F;a&gt;. It currently supports Windows, MacOS, Linux, iOS, and Web. We also have work in progress Android support ... and ambitions for even more platforms in the future!&lt;&#x2F;p&gt;
+&lt;p&gt;You can check out our &lt;a href=&quot;&#x2F;learn&#x2F;quick-start&#x2F;introduction&quot;&gt;Quick Start Guide&lt;&#x2F;a&gt; to try it today. It is free and open source forever! You can grab the full &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bevyengine&#x2F;bevy&quot;&gt;source code&lt;&#x2F;a&gt; on GitHub. Check out &lt;a href=&quot;https:&#x2F;&#x2F;bevyengine.org&#x2F;assets&quot;&gt;Bevy Assets&lt;&#x2F;a&gt; for a collection of community-developed plugins, games, and learning resources.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Bevy 0.10</title>
+        <published>2023-03-06T00:00:00+00:00</published>
+        <updated>2023-03-06T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://bevyengine.org/news/bevy-0-10/"/>
+        <id>https://bevyengine.org/news/bevy-0-10/</id>
+        
+        <summary type="html">&lt;p&gt;Thanks to &lt;strong&gt;173&lt;&#x2F;strong&gt; contributors, &lt;strong&gt;689&lt;&#x2F;strong&gt; pull requests, community reviewers, and our &lt;a href=&quot;&#x2F;community&#x2F;donate&quot;&gt;&lt;strong&gt;generous sponsors&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;, we&#x27;re happy to announce the &lt;strong&gt;Bevy 0.10&lt;&#x2F;strong&gt; release on &lt;a href=&quot;https:&#x2F;&#x2F;crates.io&#x2F;crates&#x2F;bevy&quot;&gt;crates.io&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+&lt;p&gt;For those who don&#x27;t know, Bevy is a refreshingly simple data-driven game engine built in Rust. You can check out our &lt;a href=&quot;&#x2F;learn&#x2F;quick-start&#x2F;introduction&quot;&gt;Quick Start Guide&lt;&#x2F;a&gt; to try it today. It&#x27;s free and open source forever! You can grab the full &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bevyengine&#x2F;bevy&quot;&gt;source code&lt;&#x2F;a&gt; on GitHub. Check out &lt;a href=&quot;https:&#x2F;&#x2F;bevyengine.org&#x2F;assets&quot;&gt;Bevy Assets&lt;&#x2F;a&gt; for a collection of community-developed plugins, games, and learning resources.&lt;&#x2F;p&gt;
+&lt;p&gt;To update an existing Bevy App or Plugin to &lt;strong&gt;Bevy 0.10&lt;&#x2F;strong&gt;, check out our &lt;a href=&quot;&#x2F;learn&#x2F;migration-guides&#x2F;0.9-0.10&#x2F;&quot;&gt;0.9 to 0.10 Migration Guide&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Since our last release a few months ago we&#x27;ve added a &lt;em&gt;ton&lt;&#x2F;em&gt; of new features, bug fixes, and quality of life tweaks, but here are some of the highlights:&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Scaling Bevy Development</title>
+        <published>2023-01-14T00:00:00+00:00</published>
+        <updated>2023-01-14T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://bevyengine.org/news/scaling-bevy-development/"/>
+        <id>https://bevyengine.org/news/scaling-bevy-development/</id>
+        
+        <summary type="html">&lt;p&gt;The Bevy community has grown a lot over the past couple of years. We&#x27;ve had over 3,642 pull requests, 599 contributors, 357,917 downloads, and 21,200 github stars. Together we&#x27;ve built the most popular, most used Rust game engine on the market and the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;topics&#x2F;game-engine&quot;&gt;second most popular game engine on GitHub&lt;&#x2F;a&gt;. Up until now, in the interest of maintaining a consistent vision and quality bar, I&#x27;ve kept our decision making process as small and centralized as possible. And I scaled out our leadership roles as slowly as possible. I believe this was the right call for Bevy&#x27;s early days, but we are overdue for changes that bias toward more trust and development agility.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Bevy 0.9</title>
+        <published>2022-11-12T00:00:00+00:00</published>
+        <updated>2022-11-12T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://bevyengine.org/news/bevy-0-9/"/>
+        <id>https://bevyengine.org/news/bevy-0-9/</id>
+        
+        <summary type="html">&lt;p&gt;Thanks to &lt;strong&gt;159&lt;&#x2F;strong&gt; contributors, &lt;strong&gt;430&lt;&#x2F;strong&gt; pull requests, community reviewers, and our &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;sponsors&#x2F;cart&quot;&gt;&lt;strong&gt;generous sponsors&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;, I&#x27;m happy to announce the &lt;strong&gt;Bevy 0.9&lt;&#x2F;strong&gt; release on &lt;a href=&quot;https:&#x2F;&#x2F;crates.io&#x2F;crates&#x2F;bevy&quot;&gt;crates.io&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+&lt;p&gt;For those who don&#x27;t know, Bevy is a refreshingly simple data-driven game engine built in Rust. You can check out our &lt;a href=&quot;&#x2F;learn&#x2F;quick-start&#x2F;introduction&quot;&gt;Quick Start Guide&lt;&#x2F;a&gt; to try it today. It&#x27;s free and open source forever! You can grab the full &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bevyengine&#x2F;bevy&quot;&gt;source code&lt;&#x2F;a&gt; on GitHub. Check out &lt;a href=&quot;https:&#x2F;&#x2F;bevyengine.org&#x2F;assets&quot;&gt;Bevy Assets&lt;&#x2F;a&gt; for a collection of community-developed plugins, games, and learning resources.&lt;&#x2F;p&gt;
+&lt;p&gt;To update an existing Bevy App or Plugin to &lt;strong&gt;Bevy 0.9&lt;&#x2F;strong&gt;, check out our &lt;a href=&quot;&#x2F;learn&#x2F;migration-guides&#x2F;0.8-0.9&#x2F;&quot;&gt;0.8 to 0.9 Migration Guide&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Since our last release a few months ago we&#x27;ve added a &lt;em&gt;ton&lt;&#x2F;em&gt; of new features, bug fixes, and quality of life tweaks, but here are some of the highlights:&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Bevy&#x27;s Second Birthday</title>
+        <published>2022-08-10T00:00:00+00:00</published>
+        <updated>2022-08-10T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://bevyengine.org/news/bevys-second-birthday/"/>
+        <id>https://bevyengine.org/news/bevys-second-birthday/</id>
+        
+        <summary type="html">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.twitter.com&#x2F;cart_cart&quot;&gt;@cart&lt;&#x2F;a&gt; here (Bevy&#x27;s creator, lead developer, and project manager) with another exciting announcement:&lt;&#x2F;p&gt;
+&lt;p&gt;It has now been two years since the initial Bevy release! As is (now) tradition, I will take this as a chance to reflect on the past year and outline our plans for the future. If you&#x27;re curious, check out &lt;a href=&quot;&#x2F;news&#x2F;bevys-first-birthday&quot;&gt;last year&#x27;s birthday post&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;For those who don&#x27;t know, Bevy is a refreshingly simple data-driven game engine built in Rust. Bevy is also free and open source forever! You can grab the full &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bevyengine&#x2F;bevy&quot;&gt;source code&lt;&#x2F;a&gt; on GitHub. We have a &lt;a href=&quot;&#x2F;learn&#x2F;quick-start&#x2F;introduction&quot;&gt;Quick Start Guide&lt;&#x2F;a&gt;. You can also check out &lt;a href=&quot;&#x2F;assets&#x2F;&quot;&gt;Bevy Assets&lt;&#x2F;a&gt; for a library of community-developed plugins, crates, games, and learning resources.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Bevy 0.8</title>
+        <published>2022-07-30T00:00:00+00:00</published>
+        <updated>2022-07-30T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://bevyengine.org/news/bevy-0-8/"/>
+        <id>https://bevyengine.org/news/bevy-0-8/</id>
+        
+        <summary type="html">&lt;p&gt;Thanks to &lt;strong&gt;130&lt;&#x2F;strong&gt; contributors, &lt;strong&gt;461&lt;&#x2F;strong&gt; pull requests, community reviewers, and our &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;sponsors&#x2F;cart&quot;&gt;&lt;strong&gt;generous sponsors&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;, I&#x27;m happy to announce the &lt;strong&gt;Bevy 0.8&lt;&#x2F;strong&gt; release on &lt;a href=&quot;https:&#x2F;&#x2F;crates.io&#x2F;crates&#x2F;bevy&quot;&gt;crates.io&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+&lt;p&gt;For those who don&#x27;t know, Bevy is a refreshingly simple data-driven game engine built in Rust. You can check out our &lt;a href=&quot;&#x2F;learn&#x2F;quick-start&#x2F;introduction&quot;&gt;Quick Start Guide&lt;&#x2F;a&gt; to try it today. It&#x27;s free and open source forever! You can grab the full &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bevyengine&#x2F;bevy&quot;&gt;source code&lt;&#x2F;a&gt; on GitHub. Check out &lt;a href=&quot;https:&#x2F;&#x2F;bevyengine.org&#x2F;assets&quot;&gt;Bevy Assets&lt;&#x2F;a&gt; for a collection of community-developed plugins, games, and learning resources.&lt;&#x2F;p&gt;
+&lt;p&gt;To update an existing Bevy App or Plugin to &lt;strong&gt;Bevy 0.8&lt;&#x2F;strong&gt;, check out our &lt;a href=&quot;&#x2F;learn&#x2F;migration-guides&#x2F;0.7-0.8&#x2F;&quot;&gt;0.7 to 0.8 Migration Guide&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Since our last release a few months ago we&#x27;ve added a &lt;em&gt;ton&lt;&#x2F;em&gt; of new features, bug fixes, and quality of life tweaks, but here are some of the highlights:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;New Material System&lt;&#x2F;strong&gt;: Custom shaders are now &lt;em&gt;much&lt;&#x2F;em&gt; easier to define, thanks to the new Material trait and AsBindGroup derive.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Camera-driven Rendering&lt;&#x2F;strong&gt;: Each Camera now configures what it renders and how it renders it. Easily layer camera renders on top of each other, do split screen, or render to a texture in just a few lines of code.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Built-in Shader Modularization&lt;&#x2F;strong&gt;: Many built-in shader types and functions are now importable. Notably, custom shaders can now import the PBR shader logic&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Spot Lights&lt;&#x2F;strong&gt;: A new light type that emits light in a cone shape from a fixed point.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Visibility Inheritance&lt;&#x2F;strong&gt;: Hiding an entity now also hides all of its descendants in the hierarchy.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Upgraded to wgpu 0.13&lt;&#x2F;strong&gt;: Uses a new, more ergonomic WGSL shader syntax.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Automatic Mesh Tangent Generation&lt;&#x2F;strong&gt;: If tangents are missing for a mesh, generate them with mikktspace.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Renderer Optimizations&lt;&#x2F;strong&gt;: Parallel frustum culling and unstable sorts for unbatched render phases yielded some big wins!&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Scene Bundle&lt;&#x2F;strong&gt;: Easily spawn scenes using a normal Bevy bundle and extend them with new components and children.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Scripting and Modding Progress: Untyped ECS APIs&lt;&#x2F;strong&gt;: A step toward 3rd party scripting language support! Interact with Bevy ECS internals directly via pointers.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;ECS Query Ergonomics and Usability&lt;&#x2F;strong&gt;: Queries now implement &lt;code&gt;IntoIter&lt;&#x2F;code&gt; and mutable queries can be converted to immutable queries.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;ECS Internals Refactors&lt;&#x2F;strong&gt;: Sweeping changes to Bevy ECS internals that make it simpler, safer, and easier to maintain.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Reflection Improvements&lt;&#x2F;strong&gt;: Support for reflecting more types, ECS resource reflection, untyped reflection, improved internals.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Hierarchy Commands&lt;&#x2F;strong&gt;: Hierarchy updates now use &amp;quot;transactional commands&amp;quot; to ensure hierarchy consistency at all times.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Bevy UI Now Uses Taffy&lt;&#x2F;strong&gt;:  We&#x27;ve swapped to (and help maintain) a collaborative fork of the now abandoned Stretch UI layout library. Exponential blow-up bug begone!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Bevy 0.7</title>
+        <published>2022-04-15T00:00:00+00:00</published>
+        <updated>2022-04-15T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://bevyengine.org/news/bevy-0-7/"/>
+        <id>https://bevyengine.org/news/bevy-0-7/</id>
+        
+        <summary type="html">&lt;p&gt;Thanks to &lt;strong&gt;123&lt;&#x2F;strong&gt; contributors, &lt;strong&gt;349&lt;&#x2F;strong&gt; pull requests, and our &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;sponsors&#x2F;cart&quot;&gt;&lt;strong&gt;generous sponsors&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;, I&#x27;m happy to announce the &lt;strong&gt;Bevy 0.7&lt;&#x2F;strong&gt; release on &lt;a href=&quot;https:&#x2F;&#x2F;crates.io&#x2F;crates&#x2F;bevy&quot;&gt;crates.io&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+&lt;p&gt;For those who don&#x27;t know, Bevy is a refreshingly simple data-driven game engine built in Rust. You can check out &lt;a href=&quot;&#x2F;learn&#x2F;quick-start&#x2F;introduction&quot;&gt;The Quick Start Guide&lt;&#x2F;a&gt; to get started. Bevy is also free and open source forever! You can grab the full &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bevyengine&#x2F;bevy&quot;&gt;source code&lt;&#x2F;a&gt; on GitHub. Check out &lt;a href=&quot;https:&#x2F;&#x2F;bevyengine.org&#x2F;assets&quot;&gt;Bevy Assets&lt;&#x2F;a&gt; for a collection of community-developed plugins, games, and learning resources.&lt;&#x2F;p&gt;
+&lt;p&gt;To update an existing Bevy App or Plugin to &lt;strong&gt;Bevy 0.7&lt;&#x2F;strong&gt;, check out our &lt;a href=&quot;&#x2F;learn&#x2F;migration-guides&#x2F;0.6-0.7&#x2F;&quot;&gt;0.6 to 0.7 Migration Guide&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;As always, there are a &lt;em&gt;ton&lt;&#x2F;em&gt; of new features, bug fixes, and quality of life tweaks in this release, but here are some of the highlights:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Skeletal animation and mesh skinning&lt;&#x2F;li&gt;
+&lt;li&gt;GLTF animation importing&lt;&#x2F;li&gt;
+&lt;li&gt;Unlimited* point lights in a scene&lt;&#x2F;li&gt;
+&lt;li&gt;Improved clustered forward rendering: dynamic&#x2F;adaptive clustering and faster, more accurate cluster assignment&lt;&#x2F;li&gt;
+&lt;li&gt;Compressed texture support (KTX2 &#x2F; DDS &#x2F; .basis): load more textures in a scene, faster&lt;&#x2F;li&gt;
+&lt;li&gt;Compute shader &#x2F; pipeline specialization: Bevy&#x27;s flexible shader system was ported to compute shaders, enabling hot reloading, shader defs, and shader imports&lt;&#x2F;li&gt;
+&lt;li&gt;Render to texture: cameras can now be configured to render to a texture instead of a window&lt;&#x2F;li&gt;
+&lt;li&gt;Flexible mesh vertex layouts in shaders&lt;&#x2F;li&gt;
+&lt;li&gt;ECS improvements: Order systems using their names, Query::many_mut, use conflicting parameters in systems via ParamSets, WorldQuery derives&lt;&#x2F;li&gt;
+&lt;li&gt;Documentation improvements: better examples, more doc tests and more coverage&lt;&#x2F;li&gt;
+&lt;li&gt;More audio control: pause, volume, speed, and looping&lt;&#x2F;li&gt;
+&lt;li&gt;Power usage options to enable only updating Bevy Apps when input occurs&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Bevy 0.6</title>
+        <published>2022-01-08T00:00:00+00:00</published>
+        <updated>2022-01-08T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://bevyengine.org/news/bevy-0-6/"/>
+        <id>https://bevyengine.org/news/bevy-0-6/</id>
+        
+        <summary type="html">&lt;p&gt;Thanks to &lt;strong&gt;170&lt;&#x2F;strong&gt; contributors, &lt;strong&gt;623&lt;&#x2F;strong&gt; pull requests, and our &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;sponsors&#x2F;cart&quot;&gt;&lt;strong&gt;generous sponsors&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;, I&#x27;m happy to announce the &lt;strong&gt;Bevy 0.6&lt;&#x2F;strong&gt; release on &lt;a href=&quot;https:&#x2F;&#x2F;crates.io&#x2F;crates&#x2F;bevy&quot;&gt;crates.io&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+&lt;p&gt;For those who don&#x27;t know, Bevy is a refreshingly simple data-driven game engine built in Rust. You can check out &lt;a href=&quot;&#x2F;learn&#x2F;quick-start&#x2F;introduction&quot;&gt;The Quick Start Guide&lt;&#x2F;a&gt; to get started. Bevy is also free and open source forever! You can grab the full &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bevyengine&#x2F;bevy&quot;&gt;source code&lt;&#x2F;a&gt; on GitHub. Check out &lt;a href=&quot;https:&#x2F;&#x2F;bevyengine.org&#x2F;assets&quot;&gt;Bevy Assets&lt;&#x2F;a&gt; for a collection of community-developed plugins, games, and learning resources.&lt;&#x2F;p&gt;
+&lt;p&gt;To update an existing Bevy App or Plugin to &lt;strong&gt;Bevy 0.6&lt;&#x2F;strong&gt;, check out our &lt;a href=&quot;&#x2F;learn&#x2F;migration-guides&#x2F;0.5-0.6&#x2F;&quot;&gt;0.5 to 0.6 Migration Guide&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;There are a &lt;em&gt;ton&lt;&#x2F;em&gt; of improvements, bug fixes and quality of life tweaks in this release. Here are some of the highlights:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;A brand new modern renderer that is prettier, faster, and simpler to extend&lt;&#x2F;li&gt;
+&lt;li&gt;Directional and point light shadows&lt;&#x2F;li&gt;
+&lt;li&gt;Clustered forward rendering&lt;&#x2F;li&gt;
+&lt;li&gt;Frustum culling&lt;&#x2F;li&gt;
+&lt;li&gt;Significantly faster sprite rendering with less boilerplate&lt;&#x2F;li&gt;
+&lt;li&gt;Native WebGL2 support. You can test this out by &lt;a href=&quot;&#x2F;examples&quot;&gt;running the Bevy Examples in your browser!&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;High level custom Materials&lt;&#x2F;li&gt;
+&lt;li&gt;More powerful shaders: preprocessors, imports, WGSL support&lt;&#x2F;li&gt;
+&lt;li&gt;Bevy ECS ergonomics and performance improvements. No more &lt;code&gt;.system()&lt;&#x2F;code&gt;!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Read on for details!&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Bevy&#x27;s First Birthday</title>
+        <published>2021-08-10T00:00:00+00:00</published>
+        <updated>2021-08-10T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://bevyengine.org/news/bevys-first-birthday/"/>
+        <id>https://bevyengine.org/news/bevys-first-birthday/</id>
+        
+        <summary type="html">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.twitter.com&#x2F;cart_cart&quot;&gt;@cart&lt;&#x2F;a&gt; here (Bevy&#x27;s creator, lead developer, and project manager) with some exciting news:&lt;&#x2F;p&gt;
+&lt;p&gt;Today is Bevy&#x27;s first birthday! And what a year it has been! Now seems like as good a time as any to look back on how far we&#x27;ve come, reflect a bit, and start thinking about what the next year of Bevy development will look like.&lt;&#x2F;p&gt;
+&lt;p&gt;For those who don&#x27;t know, Bevy is a refreshingly simple data-driven game engine built in Rust. Bevy is also free and open source forever! You can grab the full &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bevyengine&#x2F;bevy&quot;&gt;source code&lt;&#x2F;a&gt; on GitHub. We have a &lt;a href=&quot;&#x2F;learn&#x2F;quick-start&#x2F;introduction&quot;&gt;Quick Start Guide&lt;&#x2F;a&gt;. You can also check out &lt;a href=&quot;https:&#x2F;&#x2F;bevyengine.org&#x2F;assets&#x2F;&quot;&gt;Bevy Assets&lt;&#x2F;a&gt; for a library of community-developed plugins, crates, games, and learning resources.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Bevy 0.5</title>
+        <published>2021-04-06T00:00:00+00:00</published>
+        <updated>2021-04-06T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://bevyengine.org/news/bevy-0-5/"/>
+        <id>https://bevyengine.org/news/bevy-0-5/</id>
+        
+        <summary type="html">&lt;p&gt;Thanks to &lt;strong&gt;88&lt;&#x2F;strong&gt; contributors, &lt;strong&gt;283&lt;&#x2F;strong&gt; pull requests, and our &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;sponsors&#x2F;cart&quot;&gt;&lt;strong&gt;generous sponsors&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;, I&#x27;m happy to announce the &lt;strong&gt;Bevy 0.5&lt;&#x2F;strong&gt; release on &lt;a href=&quot;https:&#x2F;&#x2F;crates.io&#x2F;crates&#x2F;bevy&quot;&gt;crates.io&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+&lt;p&gt;For those who don&#x27;t know, Bevy is a refreshingly simple data-driven game engine built in Rust. You can check out &lt;a href=&quot;&#x2F;learn&#x2F;quick-start&#x2F;introduction&quot;&gt;The Quick Start Guide&lt;&#x2F;a&gt; to get started. Bevy is also free and open source forever! You can grab the full &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bevyengine&#x2F;bevy&quot;&gt;source code&lt;&#x2F;a&gt; on GitHub. Check out &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bevyengine&#x2F;awesome-bevy&quot;&gt;Awesome Bevy&lt;&#x2F;a&gt; for a list of community-developed plugins, games, and learning resources.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Bevy 0.5&lt;&#x2F;strong&gt; is quite a bit bigger than our past few releases (and took a bit longer) as we have made a number of foundational changes. If you plan on updating your App or Plugin to &lt;strong&gt;Bevy 0.5&lt;&#x2F;strong&gt;, check out our &lt;a href=&quot;&#x2F;learn&#x2F;migration-guides&#x2F;0.4-0.5&#x2F;&quot;&gt;0.4 to 0.5 Migration Guide&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Here are some of the highlights from this release:&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Bevy 0.4</title>
+        <published>2020-12-19T00:00:00+00:00</published>
+        <updated>2020-12-19T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://bevyengine.org/news/bevy-0-4/"/>
+        <id>https://bevyengine.org/news/bevy-0-4/</id>
+        
+        <summary type="html">&lt;p&gt;A little over a month after releasing Bevy 0.3, and thanks to &lt;strong&gt;66&lt;&#x2F;strong&gt; contributors, &lt;strong&gt;178&lt;&#x2F;strong&gt; pull requests, and our &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;sponsors&#x2F;cart&quot;&gt;&lt;strong&gt;generous sponsors&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;, I&#x27;m happy to announce the &lt;strong&gt;Bevy 0.4&lt;&#x2F;strong&gt; release on &lt;a href=&quot;https:&#x2F;&#x2F;crates.io&#x2F;crates&#x2F;bevy&quot;&gt;crates.io&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+&lt;p&gt;For those who don&#x27;t know, Bevy is a refreshingly simple data-driven game engine built in Rust. You can check out &lt;a href=&quot;&#x2F;learn&#x2F;quick-start&#x2F;introduction&quot;&gt;The Quick Start Guide&lt;&#x2F;a&gt; to get started. Bevy is also free and open source forever! You can grab the full &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bevyengine&#x2F;bevy&quot;&gt;source code&lt;&#x2F;a&gt; on GitHub.&lt;&#x2F;p&gt;
+&lt;p&gt;Here are some of the highlights from this release:&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Bevy 0.3</title>
+        <published>2020-11-03T00:00:00+00:00</published>
+        <updated>2020-11-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://bevyengine.org/news/bevy-0-3/"/>
+        <id>https://bevyengine.org/news/bevy-0-3/</id>
+        
+        <summary type="html">&lt;p&gt;A little over a month after releasing Bevy 0.2, and thanks to &lt;strong&gt;59&lt;&#x2F;strong&gt; contributors, &lt;strong&gt;122&lt;&#x2F;strong&gt; pull requests, and our &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;sponsors&#x2F;cart&quot;&gt;&lt;strong&gt;generous sponsors&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;, I&#x27;m happy to announce the &lt;strong&gt;Bevy 0.3&lt;&#x2F;strong&gt; release on &lt;a href=&quot;https:&#x2F;&#x2F;crates.io&#x2F;crates&#x2F;bevy&quot;&gt;crates.io&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+&lt;p&gt;For those who don&#x27;t know, Bevy is a refreshingly simple data-driven game engine built in Rust. You can check out &lt;a href=&quot;&#x2F;learn&#x2F;quick-start&#x2F;introduction&quot;&gt;The Quick Start Guide&lt;&#x2F;a&gt; to get started. Bevy is also free and open source forever! You can grab the full &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bevyengine&#x2F;bevy&quot;&gt;source code&lt;&#x2F;a&gt; on GitHub.&lt;&#x2F;p&gt;
+&lt;p&gt;Here are some of the highlights from this release:&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Bevy 0.2</title>
+        <published>2020-09-19T00:00:00+00:00</published>
+        <updated>2020-09-19T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://bevyengine.org/news/bevy-0-2/"/>
+        <id>https://bevyengine.org/news/bevy-0-2/</id>
+        
+        <summary type="html">&lt;p&gt;A month after the initial Bevy release, and thanks to &lt;strong&gt;87&lt;&#x2F;strong&gt; contributors, &lt;strong&gt;174&lt;&#x2F;strong&gt; pull requests, and our &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;sponsors&#x2F;cart&quot;&gt;&lt;strong&gt;generous sponsors&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;, I&#x27;m happy to announce the &lt;strong&gt;Bevy 0.2&lt;&#x2F;strong&gt; release on &lt;a href=&quot;https:&#x2F;&#x2F;crates.io&#x2F;crates&#x2F;bevy&quot;&gt;crates.io&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+&lt;p&gt;For those who don&#x27;t know, Bevy is a refreshingly simple data-driven game engine built in Rust. You can check out &lt;a href=&quot;&#x2F;learn&#x2F;quick-start&#x2F;introduction&#x2F;&quot;&gt;The Quick Start Guide&lt;&#x2F;a&gt; to get started. Bevy is also free and open source forever! You can grab the full &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bevyengine&#x2F;bevy&quot;&gt;source code&lt;&#x2F;a&gt; on GitHub.&lt;&#x2F;p&gt;
+&lt;p&gt;Here are some of the highlights from this release:&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Scaling Bevy</title>
+        <published>2020-08-19T00:00:00+00:00</published>
+        <updated>2020-08-19T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://bevyengine.org/news/scaling-bevy/"/>
+        <id>https://bevyengine.org/news/scaling-bevy/</id>
+        
+        <summary type="html">&lt;p&gt;First, I want to take a moment to highlight just how wild the last week has been. &lt;a href=&quot;&#x2F;news&#x2F;introducing-bevy&quot;&gt;&lt;strong&gt;Bevy was only released a week ago&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; and we&#x27;ve already hit some pretty major milestones:&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Introducing Bevy 0.1</title>
+        <published>2020-08-10T00:00:00+00:00</published>
+        <updated>2020-08-10T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://bevyengine.org/news/introducing-bevy/"/>
+        <id>https://bevyengine.org/news/introducing-bevy/</id>
+        
+        <summary type="html">&lt;p&gt;&lt;video controls loop&gt;&lt;source  src=&quot;hot_reloading.mp4&quot; type=&quot;video&#x2F;mp4&quot;&#x2F;&gt;&lt;&#x2F;video&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;After months of work, I am ecstatic to finally announce &lt;strong&gt;Bevy Engine&lt;&#x2F;strong&gt;!&lt;&#x2F;p&gt;
+&lt;p&gt;Bevy is a refreshingly simple data-driven game engine and app framework built in Rust. It is &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bevyengine&#x2F;bevy&quot;&gt;free and open-source&lt;&#x2F;a&gt; forever!&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>
